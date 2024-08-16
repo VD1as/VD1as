@@ -12,6 +12,7 @@ I'm a passionate back-end developer dedicated to solving complex problems and cr
 
 ## Languages and Tools:
 - Python
+- Matlab
 - Flask, Django
 - PostgreSQL
 - Docker
